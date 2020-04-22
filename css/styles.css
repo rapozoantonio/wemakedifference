@@ -369,7 +369,7 @@ h1, h2, h3, h4, h5, h6,
 }
 
 h1, .h1 {
-  font-size: 2.5rem;
+  font-size: 3.2rem;
 }
 
 h2, .h2 {
@@ -9959,11 +9959,12 @@ p {
 
 .page-section {
  /* padding: 6rem 0;*/
+  padding: 4rem;
 }
 .page-section h2.section-heading {
   font-size: 2.5rem;
-  margin-top: 0;
-  margin-bottom: 1rem;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
 }
 .page-section h3.section-subheading {
   font-size: 1rem;
@@ -9971,6 +9972,7 @@ p {
   font-style: italic;
   font-family: 'filson-pro', "Droid Serif", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   margin-bottom: 4rem;
+  margin-top: 2rem;
 }
 
 @media (min-width: 768px) {
